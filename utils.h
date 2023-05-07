@@ -24,6 +24,8 @@
 #ifndef __ZDTUN_UTILS_H__
 #define __ZDTUN_UTILS_H__
 
+#include "zdtun.h"
+
 typedef enum {
   CON_MODE_CLIENT,
   CON_MODE_SERVER
